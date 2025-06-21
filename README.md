@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/priyangamary/Leetcode-Solutions/tree/master/0015-3sum) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/priyangamary/Leetcode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
