@@ -61,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyangamary/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/priyangamary/Leetcode-Solutions/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/priyangamary/Leetcode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
